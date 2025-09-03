@@ -1,0 +1,10 @@
+services:
+  app:
+    build:
+      context: .         # <-- Make sure this is the ROOT of your project
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    volumes:
+      - .:/app           # Mount local code (optional for live reload)
+    command: ["./server"]
