@@ -86,10 +86,6 @@ Base URL: `http://localhost:8080/api/v1`
 
 ![Database ERD](DB%20Model.png)
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and open a pull request with your changes.
-
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
