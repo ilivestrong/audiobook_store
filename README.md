@@ -86,6 +86,10 @@ Base URL: `http://localhost:8080/api/v1`
 
 ![Database ERD](DB%20Model.png)
 
+### App Demo
+
+ <video src="audiobooks_store_demo.mp4" controls width="640" />
+
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
