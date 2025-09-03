@@ -86,9 +86,7 @@ Base URL: `http://localhost:8080/api/v1`
 
 ![Database ERD](DB%20Model.png)
 
-### App Demo
-
- <video src="audiobooks_store_demo.mp4" controls width="640" />
+![App Demo](audiobooks_store_demo.gif)
 
 ## License
 
